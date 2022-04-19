@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  19 APR 2022 21:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  19 APR 2022 21:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,12 +470,6 @@ LaTeX Warning: Label `five' multiply defined.
 
 LaTeX Warning: Label `five' multiply defined.
 
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
 )
 \openout1 = `document.aux'.
 
@@ -607,21 +601,25 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 
  [1
 
-] [2]
-File: p1.jpg Graphic file (type bmp)
-<p1.jpg>
+]
+File: frame.jpg Graphic file (type bmp)
+<frame.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[2] [3]
+File: p1.jpg Graphic file (type bmp)
+<p1.jpg>
 File: p2.png Graphic file (type bmp)
 <p2.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: p3.png Graphic file (type bmp)
 <p3.png>
-[3]
+[4]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -630,33 +628,37 @@ File: p4.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 172.
+[5]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 179.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 172.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 179.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 180.
+) [6]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 187.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [6] [7] [8] [9] [10] [11]
+) [7] [8] [9] [10] [11]
 File: post.png Graphic file (type bmp)
 <post.png>
- [12] (./document.aux)
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13] (./document.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8183 strings out of 476919
- 222804 string characters out of 5825425
- 549105 words of memory out of 5000000
- 27993 multiletter control sequences out of 15000+600000
+ 8188 strings out of 476919
+ 222870 string characters out of 5825425
+ 550103 words of memory out of 5000000
+ 27998 multiletter control sequences out of 15000+600000
  410158 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,8n,104p,1217b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (12 pages).
+Output written on document.pdf (13 pages).
